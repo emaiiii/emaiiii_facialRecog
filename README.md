@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### This practice project that utilizes the Clarifai API for facial detection.
+### This is a practice project that utilizes the Clarifai API for facial detection.
 
 ## Available Scripts
 
